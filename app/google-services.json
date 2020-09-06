@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001559278186",
+    "firebase_url": "https://basicchat-6b965.firebaseio.com",
+    "project_id": "basicchat-6b965",
+    "storage_bucket": "basicchat-6b965.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001559278186:android:62d0c6eb623d74b0da0013",
+        "android_client_info": {
+          "package_name": "com.example.basic_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001559278186-qlo342c5e2crk8rgq13296da152plsqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneGAMt2Gvdn371QRInpjubR-NxIHqKdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001559278186-qlo342c5e2crk8rgq13296da152plsqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
